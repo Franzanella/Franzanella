@@ -21,4 +21,5 @@ In my free time I like to play videogames (:video_game:), to watch movies and se
 
 Would you like to find me?
 
-### [Personal Website](https://franzanella.github.io/meuportfolio/)
+# :computer:[Personal Website](https://franzanella.github.io/meuportfolio/)
+
