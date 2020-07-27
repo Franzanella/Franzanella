@@ -20,5 +20,4 @@ i'm doing IT management college
 In my free time I like to play videogames (:video_game:), to watch movies and series (:tv:), to play the drums (:musical_score:), to listen to music (:musical_note:) and eventually I like to play with my pets(:dog:).
 
 Would you like to find me?
-
-<a href=“https://franzanella.github.io/meuportfolio/“>Meu Currículo em HTML e CSS</a>
+[Flex Grid](http://exemplo.com/)
