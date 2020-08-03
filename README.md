@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Franciele Zanella from Brazil (:flag_br:). I've been studying Front-End and Back-End Development since 2016. I already graduated (Fatec - internet systems) in the year of 2019, Currently I'm studying IT management in college.
+My name is Franciele Zanella from Brazil (:brazil:). I've been studying Front-End and Back-End Development since 2016. I already graduated (Fatec - internet systems) in the year of 2019, Currently I'm studying IT management in college.
 
 For my free time I like to play videogames (:video_game:), watch movies and series (:tv:), play the drums (:musical_score:), listen to music (:musical_note:) and eventually I like to play with my pets(:dog:).
 
